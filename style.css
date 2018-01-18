@@ -23,7 +23,7 @@ body {
 	width: 100%;
 	background-color: #ffffff;
 	overflow: hidden;
-	border-style: solid none solid none;
+	border-style: 2px solid none solid none;
 	border-bottom-color: #024e0e;
 	border-top-color: #024e0e;
 	font-family: 'Arial';
